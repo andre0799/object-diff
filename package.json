@@ -1,5 +1,5 @@
 {
-	"name": "object-diff",
+	"name": "object-diff-2",
 	"description": "Get the diff from objectA to objectB",
 	"version": "0.0.6",
 	"main": "index.js",
