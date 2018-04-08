@@ -60,7 +60,6 @@ test('Custom equality', function( t ) {
 	};
 
 	t.deepEqual(diff(a, b), {
-		created: new Date(created),
 		updated: now,
 	}, 'expected default behavior');
 
